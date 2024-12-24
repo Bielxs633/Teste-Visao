@@ -12,10 +12,10 @@ Este é um projeto de **Teste de Visão**. O teste apresenta letras ou números 
 ---
 
 ## Funcionalidades
-- **Exibição de caracteres com tamanhos variáveis**: Letras ou números são exibidos em diferentes tamanhos.
-- **Interface interativa**: O usuário pode avançar ou repetir o teste.
-- **Personalização**: Permite ajustar o intervalo de tamanhos e o tipo de caracteres exibidos.
-- **Validação de respostas**: Compara as respostas do usuário com os caracteres exibidos.
+1. **Exibição de caracteres com tamanhos variáveis**: Letras ou números são exibidos em diferentes tamanhos.
+2. **Interface interativa**: O usuário pode avançar ou repetir o teste.
+3. **Personalização**: Permite ajustar o intervalo de tamanhos e o tipo de caracteres exibidos.
+4. **Validação de respostas**: Compara as respostas do usuário com os caracteres exibidos.
 
 ---
 
